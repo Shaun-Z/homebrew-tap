@@ -1,7 +1,7 @@
 cask "power-notch@rc" do
-  version "0.1.3"
-  sha256 "c0f5dff396ce64647bbdc785e5411b96dfc7280ac29b7d140fedf1f8da5ca88f"
-  url "https://github.com/Shaun-Z/power.notch/releases/download/v0.1.3/powerNotch.dmg"
+  version "0.1.4"
+  sha256 "8d1d00c255f52ef3c9fd28bf698fd6d5c39b5175f267ecd247381d30ac4d9c6d"
+  url "https://github.com/Shaun-Z/power.notch/releases/download/v0.1.4/powerNotch.dmg"
   name "powerNotch RC"
   desc "powerNotch That Rocks (Release Candidate)"
   homepage "https://github.com/Shaun-Z/power.notch"
